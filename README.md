@@ -1,5 +1,6 @@
 **SE-DAY5-Technical-Writing
 **
+
 **How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 **
 understanding your audience expertise will help you to use simple well understood words instead of using technical terminologies that the regular folks dont understand as compared to technical experts.
